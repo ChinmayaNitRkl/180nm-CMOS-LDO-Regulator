@@ -3,7 +3,7 @@ A PMOS-based LDO regulator designed for 3V output with stability analysis in LTs
 # 180nm CMOS Low-Dropout (LDO) Regulator Design
 **Developer:** Chinmaya Kumar Nanda (Roll: 124EE0091)  
 **Institution:** NIT Rourkela  
-**Target Application:** Power management for e-Yantra Robotics/VLSI Portfolio
+
 
 ## 📌 Project Overview
 This project presents the design and stability analysis of a PMOS-based LDO regulator targeting a **3.0V output** from a **3.3V supply**. The design is optimized for high-current transient events (50mA), simulating the power requirements of a micro-robotics motor controller.
